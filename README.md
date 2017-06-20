@@ -1,4 +1,4 @@
-# website_gip
-<a href="https://onedrive.live.com/embed?cid=9421439D417813B3&resid=9421439D417813B3%215349&authkey=AA9FqweroXMznzA&em=2">KLIK</a> 
-# H1[De link naar de presentatie]("https://onedrive.live.com/embed?cid=9421439D417813B3&resid=9421439D417813B3%215349&authkey=AA9FqweroXMznzA&em=2) 
-<iframe src="https://onedrive.live.com/embed?cid=9421439D417813B3&resid=9421439D417813B3%215349&authkey=AA9FqweroXMznzA&em=2" width="402" height="327" frameborder="0" scrolling="no"></iframe>
+#H1 Hier vind je alle code om je eigen autootje te maken!
+
+[De link naar de presentatie]("https://onedrive.live.com/embed?cid=9421439D417813B3&resid=9421439D417813B3%215349&authkey=AA9FqweroXMznzA&em=2) 
+
